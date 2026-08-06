@@ -1,7 +1,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"message" "Jump and gets the coins\to unlock the goal.\In this level, angled acceleration\might be your best friend.\"
+"message" "Jump and get the coins\to unlock the goal.\In this level, angled acceleration\might be your best friend.\"
 "goal" "64"
 "back" "map-back/jupiter.sol"
 "grad" "back/space.png"

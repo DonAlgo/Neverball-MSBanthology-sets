@@ -6,7 +6,7 @@
 "grad" "back/volcano.png"
 "song" "bgm/track6.ogg"
 "goal" "20"
-"shot" "shot-MSBa4/watchout-II.jpg"
+"shot" "shot-MSBa4/watchout.jpg"
 "time" "15000"
 // brush 0
 {
@@ -5437,7 +5437,7 @@
 {
 "classname" "misc_model"
 "origin" "4.000000 -128.000000 0.000000"
-"model" "obj/Zrail2.obj"
+"model" "obj/zrail2.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5445,7 +5445,7 @@
 {
 "classname" "misc_model"
 "origin" "-132.000000 -128.000000 0.000000"
-"model" "obj/Zrail2.obj"
+"model" "obj/zrail2.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5573,7 +5573,7 @@
 {
 "classname" "misc_model"
 "origin" "772.000000 2120.000000 0.000000"
-"model" "obj/Zrail2.obj"
+"model" "obj/zrail2.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5581,7 +5581,7 @@
 {
 "classname" "misc_model"
 "origin" "636.000000 2120.000000 0.000000"
-"model" "obj/Zrail2.obj"
+"model" "obj/zrail2.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5653,7 +5653,7 @@
 {
 "classname" "misc_model"
 "origin" "132.000000 384.000000 0.000000"
-"model" "obj/Zrail8.obj"
+"model" "obj/zrail8.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5661,7 +5661,7 @@
 {
 "classname" "misc_model"
 "origin" "-260.000000 384.000000 0.000000"
-"model" "obj/Zrail8.obj"
+"model" "obj/zrail8.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }
@@ -5669,7 +5669,7 @@
 {
 "classname" "misc_model"
 "origin" "-260.000000 832.000000 0.000000"
-"model" "obj/Zrail6.obj"
+"model" "obj/zrail6.obj"
 "modelscale" "64.000000"
 "angles" "-0.000000 0.000000 90.000000"
 }

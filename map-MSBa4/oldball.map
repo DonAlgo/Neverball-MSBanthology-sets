@@ -2003,7 +2003,7 @@
 {
 "classname" "info_null"
 "origin" "-52.000000 -264.000000 1096.000000"
-"image" "donset-all/oldball/lvltext"
+"image" "textures/donmtrl/lvltext"
 "height" "0.4"
 "width" "2.5"
 "target" "text1"
