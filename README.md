@@ -1,10 +1,8 @@
-# Neverball ✾ MSB's Anthology level sets
+# Neverball 1.7.0 ✾ MSB's Anthology levels.
 
-A collection of custom Neverball level sets.
+A collection of custom Neverball level sets for Neverball 1.7.0 (alpha 3).
 
-Play through a wide variety of levels, starting with a difficulty comparable to Neverball Medium and gradually progressing to challenges approaching Nevermania's difficulty.
-
-Featuring many brand-new levels alongside reworked versions of older ones.
+Complete a crazy amount of challenges, starting with relatively easy levels, and by the end, completing challenges of similar difficulty to Nevermania.
 
 The collection currently includes the following sets:
 
@@ -13,10 +11,7 @@ The collection currently includes the following sets:
 * MSB's Anthology ✾ Ⅲ (25 levels)
 * MSB's Anthology ✾ Ⅳ (15 levels)
 
-Also, huge thanks to [DepresseDreamer](https://github.com/DepresseDreamer)! He remade Bonus Ⅲ for Anthology Ⅱ.
-
-Preview screenshots (SPOILERS):
-
+Huge thanks to [DepresseDreamer](https://github.com/DepresseDreamer)! He remade Bonus Ⅲ for Anthology Ⅱ.
 
 <img width="400" height="300" alt="screen00115" src="https://github.com/user-attachments/assets/bd9a1f82-f65d-436d-b5d3-1fd4d489157e" />
 <img width="400" height="300" alt="screen00111" src="https://github.com/user-attachments/assets/c9d392f1-fcc1-4343-a03a-d92bcc41001b" />
