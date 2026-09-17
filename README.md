@@ -9,9 +9,9 @@ The collection currently includes the following sets:
 * MSB's Anthology ✾ Ⅰ (25 levels)
 * MSB's Anthology ✾ Ⅱ (25 levels)
 * MSB's Anthology ✾ Ⅲ (25 levels)
-* MSB's Anthology ✾ Ⅳ (15 levels)
+* MSB's Anthology ✾ Ⅳ (17 levels)
 
-Huge thanks to [DepresseDreamer](https://github.com/DepresseDreamer)! He remade Bonus Ⅲ for Anthology Ⅱ.
+Huge thanks to [DepresseDreamer](https://github.com/DepresseDreamer)! He remade Bonus Ⅲ for Anthology Ⅲ.
 
 <img width="400" height="300" alt="screen00115" src="https://github.com/user-attachments/assets/bd9a1f82-f65d-436d-b5d3-1fd4d489157e" />
 <img width="400" height="300" alt="screen00111" src="https://github.com/user-attachments/assets/c9d392f1-fcc1-4343-a03a-d92bcc41001b" />
